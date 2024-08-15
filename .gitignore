@@ -1,0 +1,10 @@
+# @TODO: See https://github.com/github/gitignore for Templates
+__pycache__/
+.env
+.docker/
+.envrc
+*.json
+.DS_Store
+data/
+*.egg-info
+.venv

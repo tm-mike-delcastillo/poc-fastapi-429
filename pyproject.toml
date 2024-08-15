@@ -1,0 +1,7 @@
+[project]
+name = "poc-fastapi-429"
+version = "0.0.1"
+dependencies = [
+    "fastapi[standard]>=0.112.0",
+    "redis[hiredis]>=5.0.8",
+]
